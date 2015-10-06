@@ -8,6 +8,6 @@ public class Main {
 		client.setVisible(true);
 		//새로운 주석 생성
 		System.out.println("");
-		System.out.println();
+		System.out.println("test");
 	}
 }
