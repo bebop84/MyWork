@@ -6,5 +6,8 @@ public class Main {
 
 		Client client = new Client();
 		client.setVisible(true);
+		//새로운 주석 생성
+		System.out.println("");
+		System.out.println();
 	}
 }
